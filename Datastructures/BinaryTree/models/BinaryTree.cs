@@ -8,9 +8,9 @@ namespace BinaryTreeApp.models
     class BinaryTree
     {
         private BinaryTreeItem _root;
-        private BinaryTreeItem _root;
 
         //Add 
+        //Add
         public void Add(int? itemtoAdd)
         {
             if (itemtoAdd == null)
