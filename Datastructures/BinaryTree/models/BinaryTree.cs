@@ -8,6 +8,7 @@ namespace BinaryTreeApp.models
     class BinaryTree
     {
         private BinaryTreeItem _root;
+        private BinaryTreeItem _root;
 
         //Add 
         public void Add(int? itemtoAdd)
